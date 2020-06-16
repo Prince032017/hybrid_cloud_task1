@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html>
-<body>
-
+Weclome ! If you are able to see this yhen it's working fine.
+</br>
+<pre>
 <?php
-echo "My first PHP script!";
+print `ifconfig`;
 ?>
-
-</body>
-</html>
+</pre>
